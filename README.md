@@ -8,6 +8,8 @@
 
 🖥️ I'm a Fullstack Web Developer
 
+🔨 Currently Working On: A portfolio website
+
 
 
 # 💻 Tech Stack:
@@ -20,4 +22,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bahmed32&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
