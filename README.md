@@ -8,7 +8,7 @@
 
 🖥️ I'm a Fullstack Web Developer
 
-🔨 Currently Working On: A portfolio 
+🔨 Currently Working On: A portfolio website
 
 
 
