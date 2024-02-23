@@ -10,6 +10,8 @@
 
 🔨 Currently Working On: A portfolio website
 
+👩🏽‍💻 Currently Learning: I'm in the process of learning how to host applications.
+
 
 
 # 💻 Tech Stack:
