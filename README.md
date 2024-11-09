@@ -8,9 +8,6 @@
 
 🖥️ I'm a Fullstack Web Developer
 
-🔨 Currently Working On: A portfolio website
-
-👩🏽‍💻 Currently Learning: I'm in the process of learning how to host applications.
 
 
 
